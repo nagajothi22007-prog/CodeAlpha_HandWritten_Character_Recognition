@@ -1,0 +1,2 @@
+# CodeAlpha_HandWritten_Character_Recognition
+Handwritten Character Recognition using CNN and Python
